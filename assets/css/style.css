@@ -1,0 +1,37 @@
+body {
+    display: flex;
+    flex-direction: column;
+    line-height: .75;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.5%;
+    background-color:rgb(211, 137, 0);
+    color: rgb(63, 60, 56);
+    font-size: 125%;
+}
+
+h1 {
+    font-size: 250%
+}
+
+nav ul {
+    display: flex;
+    justify-content: space-between;
+    min-width: 400px;
+    list-style: none;
+}
+
+nav a {
+    background-color: unset;
+    color: rgb(63, 60, 56);
+    font-weight: bolder;
+    text-decoration: unset;
+}
+
+nav a:hover {
+    color: whitesmoke;
+}
