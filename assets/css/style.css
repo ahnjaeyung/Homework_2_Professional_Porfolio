@@ -10,6 +10,7 @@ header {
     justify-content: space-between;
     align-items: center;
     padding: 1.5%;
+    border: 5px solid rgb(173, 11, 179);
     background-color:rgb(7, 116, 131);
     color: rgb(172, 216, 172);
     font-size: 125%;
