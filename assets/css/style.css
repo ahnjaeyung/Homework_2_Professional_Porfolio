@@ -42,25 +42,35 @@ nav a:hover {
 }
 
 section {
+    display: flex;
+    align-items: center;
     background-color:rgb(173, 11, 179);
     border-radius: 25px;
 }
 
-nav{
+nav {
     border-radius: 25px;
 }
 
-.banner{
+.banner {
     padding: 150px;
     
 }
 
-h2{
-    text-align: right;
+h2 {
     color: whitesmoke;
     width: 950px;
 }
 
-section h1{
-    font-size: 300px;
+section h1 {
+    font-size: 150px;
+    text-align: center;
+}
+
+p{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    color:cornsilk;
+    line-height: 30px;
+    margin: 40px;
 }
