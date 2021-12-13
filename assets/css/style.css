@@ -58,3 +58,6 @@ h2{
 section h1{
     font-size: 300px;
 }
+footer {
+    border: 5px solid rgb(173, 11, 179);
+}
