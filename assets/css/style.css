@@ -3,6 +3,7 @@ body {
     flex-direction: column;
     line-height: .75;
     background-color:rgb(7, 116, 131);
+    min-width: 500px;
 }
 
 header, footer {
