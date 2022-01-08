@@ -75,7 +75,7 @@ section h1 {
     text-align: center;
 }
 
-p{
+#bio{
     font-size: 25px;
     font-family: 'Times New Roman', Times, serif;
     color:cornsilk;
@@ -108,11 +108,18 @@ div {
     width: 50%;
 }
 
-.miniProjects {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+.projectName {
+    text-align: center;
+    font-size: 40px;
+    color: cornsilk;
+}
+
+.projectDescr {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color:black;
+    line-height: 20px;
+    margin: 40px;
 }
 
 @media screen and (max-width: 992px) {
